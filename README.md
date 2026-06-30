@@ -4,15 +4,15 @@
 
 ##### Problem:
 
-**BT FM transmitter for playing custom audio (cheap one from Amazon) leads to poor audio quality/volume loss.**
+**A cheap Amazon BT FM transmitter for custom audio gives poor quality and volume loss. I'd like better integrated audio without the plug-in transmitter.**
 
 
 
-&#x09;I could replace the factory head unit with an aftermarket unit, but the good ones are incredibly expensive, look cheap, and I want to maintain the OEM look by keeping the original head unit with the car. I would try to replace the antenna (corrosion due to East coast :/), however, I can't really find a replacement without going to the junkyard, which may or may not be in the same condition as the original antenna, or perhaps worse.
+&#x09;I could replace the factory head unit with an aftermarket unit. However, this isn't ideal: the good ones are expensive, look cheap, and I want to maintain the OEM look by keeping the original head unit. My first thought was to replace the antenna (corroded from East Coast weather), but I can't find a replacement short of a junkyard pull, which may be in the same condition or worse.
 
-&#x09;I did find a solution online that replaces the factory antenna with a direct connection to a BT module or something like that. However, I found very little information about the quality of these modules and they are quite expensive (something like $100+). ***Custom has to be the way, right?***
+&#x09;I did find a solution online that replaces the factory antenna with a direct connection to a BT module, but there's little info on the quality of these modules and they're expensive ($100+). ***Custom has to be the way, right?***
 
-&#x09;*(I mean yeah, I could do a custom antenna to improve my current audio setup, but I want to integrate better audio quality than a plug-in transmitter)*
+&#x09;*(I could do a custom antenna to improve the current setup, but I want better quality than a plug-in transmitter can offer)*
 
 
 

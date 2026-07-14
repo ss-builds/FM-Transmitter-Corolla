@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LZXJEGGY
 
 [Document9]
-DocumentPath=PDU.Harness
+DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=MCU.Harness
+DocumentPath=RF_Bypass.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IZPOZBHR
 
 [Configuration1]
 Name=Sources
